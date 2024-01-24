@@ -1,0 +1,2 @@
+class ProductWish < ApplicationRecord
+end
